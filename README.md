@@ -8,5 +8,5 @@
 #### In the foreseen future, I'd love to learn videogames development.
 
 <picture>
- <img alt="Illustration of a fearful and scary creature" src="/main/brushbuddy.png">
+ <img alt="Illustration of a fearful and scary creature" src="https://pbs.twimg.com/media/FdAyl2ZacAAn1NW.png">
 </picture>
