@@ -7,4 +7,6 @@
 - SQL
 #### In the foreseen future, I'd love to learn videogames development.
 
-! [Illustration of a fearful and scary creature]()
+<picture>
+ <img alt="Illustration of a fearful and scary creature" src="/main/brushbuddy.png">
+</picture>
