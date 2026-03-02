@@ -2,9 +2,11 @@
 ### Fear me, for I am the worst web development student (help, I'm trying)
 #### I'm currently learning (orrr trying to learn):
 - Java
-- HTML
-- CSS
-- SQL
+- HTML/CSS
+- SQL (SQLdeveloper, MySQL)
+- Python
+- XML (DTD, XSLT, XSD, BaseX)
+- Shell Bash
 #### In the foreseen future, I'd love to learn videogames development.
 
 <picture>
